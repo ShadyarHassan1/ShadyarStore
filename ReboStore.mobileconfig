@@ -12,13 +12,13 @@
             <key>IsRemovable</key>
             <true/>
             <key>Label</key>
-            <string>Rebo Store‌‌</string>
+            <string>Shadyar Store‌‌</string>
             <key>PayloadDescription</key>
             <string>Configures Web Clip</string>
             <key>PayloadDisplayName</key>
-            <string>Rebo Store‌‌</string>
+            <string>ShadyarStore‌‌</string>
             <key>PayloadIdentifier</key>
-            <string>com.rebostore</string>
+            <string>https://shadyarhassan1.github.io/ShadyarStore/</string>
             <key>PayloadOrganization</key>
             <string>Rebo Store‌‌‌‌</string>
             <key>PayloadType</key>
@@ -30,13 +30,13 @@
             <key>Precomposed</key>
             <true/>
             <key>URL</key>
-            <string>http://www.rebostore.cf</string>
+            <string>https://shadyarhassan1.github.io/ShadyarStore/</string>
         </dict>
     </array>
     <key>PayloadDescription</key>
-    <string>سپاس بۆ دابەزاندنی ڕێبۆ ستۆر</string>
+    <string>سپاس بۆ دابەزاندنی شادیار ستۆر</string>
     <key>PayloadDisplayName</key>
-    <string>Rebo Store‌‌</string>
+    <string>ShadyarHassan Store‌‌</string>
     <key>PayloadIdentifier</key>
     <string>cf.rebostore</string>
     <key>PayloadOrganization</key>
